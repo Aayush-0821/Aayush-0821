@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on *Online Learning Platform*
 
-- 🌱 I’m currently learning *Python,Front-End*
+- 🌱 I’m currently learning *Java,Front-End*
 
 - 📫 How to reach me *vatsayush67@gmail.com*
 
