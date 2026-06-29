@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I am a Full Stack Developer</p>
+<p data-importer="text" align="left">I build scalable backend systems, AI-powered developer tools, and full-stack applications using JavaScript, TypeScript, React, Next.js, Express.js, and Java.</p>
 
 ###
 
@@ -76,12 +76,15 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/theaayushvats" target="_blank">
+  <a href="https://www.linkedin.com/in/theaayushvats" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="vatsayush67@gmail.com" target="_blank">
+  <a href="mailto:vatsayush67@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://aayushvats.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF8300?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </div>
 
 ###
